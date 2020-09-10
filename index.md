@@ -6,4 +6,4 @@ Make sure you stay on top of the lottery results from every game you play and yo
 
 ### Support
 
-If you need any help or assistance while using our app, please contact us at [info@lottoresults.io](mailto://info@lottoresults.io)
+If you need any help or assistance while using our app, please contact us at [info@lottoresults.io](mailto:info@lottoresults.io)
