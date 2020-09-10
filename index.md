@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Lotto Results
+Discover the excitement of winning straight from your mobile! With EuroJackpot, Mega-Sena, Powerball and many more, the Lotto Results app is your one-stop shop for all the results from the biggest lottery draws around the world. 
+Whether you’re in the UK, the US, Australia or anywhere else across the planet, it’s never been easier to play these amazing international lotteries online. Now you can keep track of all those draws with the Lotto Results app. It’s a piece of cake to find not only results, from historical data, statistics on numbers drawn and even prize breakdowns directly in the app. 
+Make sure you stay on top of the lottery results from every game you play and you know as soon as you’ve snagged that big lotto prize—download Lotto Results today!
 
-You can use the [editor on GitHub](https://github.com/andrzejchm/lottery-results-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Support
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrzejchm/lottery-results-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you need any help or assistance while using our app, please contact us at [info@lottoresults.io](mailto://info@lottoresults.io)
