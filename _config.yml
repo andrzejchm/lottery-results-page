@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Lotto Results
 description: Find out the lucky numbers from huge lotteries worldwide with our simple app.
 show_downloads: false
+github:
+  is_project_page: false
